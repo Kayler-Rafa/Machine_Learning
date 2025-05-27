@@ -182,7 +182,8 @@ Este repositório contém três projetos distintos aplicando técnicas de aprend
 
 ## 👥 Autores
 
-- [Seu Nome](https://github.com/Kayler-Rafa)
+- [Rafael "A lenda" Diniz](https://github.com/Kayler-Rafa)
+- Amigos da lenda 
 
 ---
 
